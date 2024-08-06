@@ -1,0 +1,13 @@
+transformers
+PIL
+torch
+matplotlib.pyplot
+numpy
+os
+cv2
+sqlite3
+pandas
+pytesseract
+easyocr
+json
+matplotlib.gridspec
