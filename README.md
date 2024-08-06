@@ -49,7 +49,8 @@ The AI pipeline successfully segmented and identified objects within the provide
 - Data Mapping Complexity: Ensuring accurate mapping of extracted data to the correct objects.
 - Resource Limitations: The project required significant computational resources for processing.
 - OCR Accuracy: The OCR struggled with certain text types and required fine-tuning.
-- Future Work
+
+## Future Work
 - Model Refinement: Further fine-tuning of the models for better accuracy.
 - Extended Capabilities: Expanding the pipeline to handle more complex image analysis tasks and integrating additional data extraction methods.
 
