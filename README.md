@@ -10,8 +10,9 @@ pip install -r requirements.txt
 ```
 
 ## Files Included
-Image_segmentation.ipynb: The main Jupyter notebook containing the code for image segmentation, object extraction, identification, and analysis.
-requirements.txt: A file containing the list of Python libraries required to run the notebook.
+`Image_segmentation.ipynb`: The main Jupyter notebook containing the code for image segmentation, object extraction, identification, and analysis.
+
+`requirements.txt`: A file containing the list of Python libraries required to run the notebook.
 
 Getting Started
 1. Clone the repository:
